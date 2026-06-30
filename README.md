@@ -61,8 +61,8 @@ HTTP and FTP modules require no external dependencies.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/NeiveZ/BFCT.git
-cd BFCT
+git clone https://github.com/NeiveZ/BRTX.git
+cd BRTX
 ```
 
 ### 2. Make executable
