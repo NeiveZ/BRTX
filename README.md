@@ -1,4 +1,4 @@
-# BRTX
+# BFCT
 
 > Brute Force & Credential Tester — modular credential attack framework with Metasploit-style interactive shell.
 
