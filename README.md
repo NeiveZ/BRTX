@@ -11,7 +11,7 @@
 
 ## Overview
 
-BRTX is a modular credential testing framework built around an **interactive shell interface** — load a module, configure the target, run. Covers HTTP login forms, SSH, FTP, and SMB in a single unified tool. Valid credentials are stored in session memory and exportable as TXT, JSON, or HTML reports.
+BFCT is a modular credential testing framework built around an **interactive shell interface** — load a module, configure the target, run. Covers HTTP login forms, SSH, FTP, and SMB in a single unified tool. Valid credentials are stored in session memory and exportable as TXT, JSON, or HTML reports.
 
 ---
 
@@ -61,8 +61,8 @@ HTTP and FTP modules require no external dependencies.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/NeiveZ/BRTX.git
-cd BRTX
+git clone https://github.com/NeiveZ/BFCT.git
+cd BFCT
 ```
 
 ### 2. Make executable
